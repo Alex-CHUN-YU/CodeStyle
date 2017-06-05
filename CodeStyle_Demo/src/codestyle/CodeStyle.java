@@ -35,10 +35,13 @@ public class CodeStyle { //class命名要第一個字要為大寫
         System.out.println(demo);
         System.out.println(getAdd());
         for (int i = 0; i < a; i++) { //判斷符號兩側要為空白
-            System.out.println("");
+            System.out.print("");
         }
         for (int i = 0; i < a; i++) { //For後應有一個空格
-            System.out.println("");
+            System.out.print("");
+        }
+        for (int i = 0; i < a; i++) { //'{' 应位于前一行。
+            System.out.print("");
         }
     }
 
