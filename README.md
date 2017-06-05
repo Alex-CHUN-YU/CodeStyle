@@ -41,5 +41,5 @@
 匯入成功後，用『Set as Default』按鈕，把它設成檢查時的預設設定檔
 
 ## CodeStyle測試
-CodeStyle_Demo 資料夾中以兩個相同程式碼package中的java做比較。
+CodeStyle_Demo 資料夾裡以兩個相同程式碼package中的java做比較。
 
