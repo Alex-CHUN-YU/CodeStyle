@@ -40,4 +40,6 @@
 擊『Location』那欄最右方的『Browse』按鈕進行匯入
 匯入成功後，用『Set as Default』按鈕，把它設成檢查時的預設設定檔
 
+##CodeStyle測試
+CodeStyle_Demo 資料夾中以兩個相同程式碼package中的java做比較。
 
