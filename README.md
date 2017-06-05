@@ -39,3 +39,5 @@
 按鈕後，在『Type』那欄選擇『External Configuration』，填好『Name』這一欄（ex：MT），點
 擊『Location』那欄最右方的『Browse』按鈕進行匯入
 匯入成功後，用『Set as Default』按鈕，把它設成檢查時的預設設定檔
+
+
