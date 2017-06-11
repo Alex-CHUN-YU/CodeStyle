@@ -11,7 +11,7 @@ package uncodestyle;
 public class codestyle { //class命名要第一個字要為大寫
 
     /**
-     * a is number.
+     * number1 is number.
      */
     private static int number1 = 5; //number >= 4 會為魔術數字，type可設為(字串在去轉換)，或者把它變為常數(final)
 
@@ -19,7 +19,7 @@ public class codestyle { //class命名要第一個字要為大寫
     private static int number2 = 3; //缺少 JavaDoc 說明
 
     /**
-     * demo is number.
+     * demo is String.
      */
     private static String Demo = "Demo"; //變數 命名第一個英文字要小寫
 
