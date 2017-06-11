@@ -13,12 +13,12 @@ public class CodeStyle { //class命名要第一個字要為大寫
     /**
      * a is number.
      */
-    private static final int A = 5; //number >= 4 會為魔術數字，type可設為(字串在去轉換)，或者把它變為常數(final)
+    private static final int NUMBER1 = 5; //number >= 4 會為魔術數字，type可設為(字串在去轉換)，或者把它變為常數(final)
 
     /**
      * b is number.
      */
-    private static int b = 3; //缺少 JavaDoc 說明
+    private static int number2 = 3; //缺少 JavaDoc 說明
 
     /**
      * demo is number.
@@ -34,13 +34,13 @@ public class CodeStyle { //class命名要第一個字要為大寫
         // TODO Auto-generated method stub
         System.out.println(demo);
         System.out.println(getAdd());
-        for (int i = 0; i < A; i++) { //判斷符號兩側要為空白
+        for (int i = 0; i < NUMBER1; i++) { //判斷符號兩側要為空白
             System.out.print("");
         }
-        for (int i = 0; i < A; i++) { //For後應有一個空格
+        for (int i = 0; i < NUMBER1; i++) { //For後應有一個空格
             System.out.print("");
         }
-        for (int i = 0; i < A; i++) { //'{' 应位于前一行。
+        for (int i = 0; i < NUMBER1; i++) { //'{' 应位于前一行。
             System.out.print("");
         }
     }
@@ -51,6 +51,6 @@ public class CodeStyle { //class命名要第一個字要為大寫
      */
     public static int getAdd() { //Function 命名第一個英文字要小寫
         // TODO Auto-generated method stub
-        return (A + b);
+        return (NUMBER1 + number2);
     }
 }
